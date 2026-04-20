@@ -1,0 +1,35 @@
+# Disseny a la Línia de Comandes en l'Era IA
+
+## Disseny a la Línia de Comandes (Era IA)
+  - Eines Principals
+    - Google Stitch
+      - Generació de UI en temps real
+      - Veu a disseny
+      - Arxius Design.markdown
+      - Protocul·lació instantània
+    - Remotion
+      - Video com a codi (React)
+      - Animacions de dades i demos
+    - Blender MCP
+      - Escenes 3D mitjançant llenguatge natural
+      - Integració amb Polyhaven i SketchFab
+  - Conceptes Clau
+    - Model MCP
+      - Estàndard universal de connectors IA
+      - El 'USB' per a eines de IA
+    - Vibe Design
+      - Disseny basat en intencions i objectius
+      - Iteració a la velocitat del llenguatge
+    - Eliminació de Barreres
+      - Fi de l'exportació a Figma
+      - Disseny directament construïble
+  - Impacte en els Rols
+    - Dissenyadors
+      - De l'execució al poliment
+      - Treball des de la línia de comandes
+    - Equips de Producte
+      - Fusió de producte, enginyeria i disseny
+      - Desenvolupament MVP de baix cost
+  - Fluxos de Treball Autònoms
+    - Tasques programades amb Claude Code
+    - Resums de vídeo setmanals automàtics
